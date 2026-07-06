@@ -1,0 +1,16 @@
+{
+  "pk_mae": 2.5,
+  "pk_samples": 113,
+  "pk_rmse": 3.07,
+  "pk_r2": 0.708,
+  "cls_acc": 0.5246,
+  "cls_samples": 243,
+  "cl_mae": 3.89,
+  "cl_rmse": 5.38,
+  "cl_r2": 0.537,
+  "cl_samples": 110,
+  "vd_mae": 0.03,
+  "vd_rmse": 0.04,
+  "vd_r2": 0.341,
+  "vd_samples": 110
+}
